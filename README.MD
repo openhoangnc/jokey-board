@@ -6,7 +6,7 @@ Thao tác này thay thế cho việc tải về và copy JOKey.app vào thư m�
 
 Chạy command sau trong Terminal
 ```
-curl https://raw.githubusercontent.com/jokey-im/jokey/main/install.sh | sh
+curl -sS https://raw.githubusercontent.com/jokey-im/jokey/main/install.sh | sh
 ```
 
 - Nếu cài đặt mới, bạn cần [Thêm Jokey vào Input Sources](https://jokey-ime.blogspot.com/p/install.html)
