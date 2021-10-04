@@ -1,5 +1,5 @@
 echo Download JOKey.zip
-curl -s https://raw.githubusercontent.com/jokey-im/jokey/main/release/JOKey.zip -o JOKey_latest.zip
+curl -sS https://raw.githubusercontent.com/jokey-im/jokey/main/release/JOKey.zip -o JOKey_latest.zip
 
 echo Stop JOKey process
 pkill -f JOKey
